@@ -1,0 +1,20 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "HTTP server",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luciusharsh/Nodejs-HTTP-server.git"
+  },
+  "author": "Harsh Thalwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luciusharsh/Nodejs-HTTP-server/issues"
+  },
+  "homepage": "https://github.com/Luciusharsh/Nodejs-HTTP-server#readme"
+}
